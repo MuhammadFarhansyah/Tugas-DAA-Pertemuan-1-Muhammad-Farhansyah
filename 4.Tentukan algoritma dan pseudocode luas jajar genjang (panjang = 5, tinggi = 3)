@@ -1,0 +1,6 @@
+def luas_jajargenjang(alas, tinggi):
+return alas*tinggi
+
+alas = 5
+tinggi = 3
+print("Alas =", alas, "\nTinggi =", tinggi, "\nLuas = ", luas_jajargenjang(alas, tinggi))
