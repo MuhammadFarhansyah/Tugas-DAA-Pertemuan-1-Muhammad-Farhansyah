@@ -1,0 +1,10 @@
+x = "manggis"
+y = "pisang"
+
+temp = x
+x = y
+y = temp
+
+Print "Setelah pertukaran:"
+Print "Manggis di", x
+Print "Pisang di", y
